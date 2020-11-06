@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tema1Ejercicio2</string>
+    <string name="btnBoton">Pulsar</string>
+    <string name="placeholder">Aquí una clave</string>
+    <string name="mensajeError">No escribió nada!</string>
+</resources>
